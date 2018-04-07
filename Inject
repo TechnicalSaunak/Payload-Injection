@@ -36,5 +36,5 @@ echo -e "$blue       thanks for install
 echo -e "$red   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 echo -e "$blue        thank you 
 echo
-;;
+;
 esac
