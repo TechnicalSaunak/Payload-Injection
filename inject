@@ -1,4 +1,3 @@
-<echo>
 #!/data/data/com.termux/files/usr/bin/bash
 clear
 unset LD_PRELOAD
@@ -25,4 +24,7 @@ echo -e "$blue               ~~~~~~~~~~~~~~~~~~~~~~~~~~"
 echo -e "$red                  PAYLOAD-INJECTION v-1.0"
 echo -e "$blue              ~~~~~~~~~~~~~~~~~~~~~~"~~~~~" 
  figlet -f mini   ................ Coming soon...............
-</echo>
+echo
+echo -e "$yellow ENTER to continue"
+
+
