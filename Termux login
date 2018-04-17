@@ -1,0 +1,9 @@
+<SCRIPT LANGUAGE="JavaScript">
+var username ='HackerS'
+var password = 'iamhacker'
+password=prompt('This is password protected page, please enter password to continue.','');
+if (username != 'HackerS'
+if (password != 'iamhacker') {
+location.href='http://www.error_page_url.com';
+}
+</SCRIPT>
